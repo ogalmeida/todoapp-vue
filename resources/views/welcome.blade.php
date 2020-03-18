@@ -20,7 +20,8 @@
 
 <body>
   <div id="app">
-    <app class="pb-5"></app>
+    oi
+    {{-- <app class="pb-5"></app> --}}
   </div>
 
   {{-- <script type="text/javascript" src="{{mix('js/app.js')}}"></script> --}}
