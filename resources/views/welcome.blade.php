@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="{{asset('css/app.css', true)}}">
+  {{-- <link rel="stylesheet" href="{{asset('css/app.css', true)}}"> --}}
 
   {{-- Font awesome --}}
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
@@ -24,7 +24,7 @@
   </div>
 
   {{-- <script type="text/javascript" src="{{mix('js/app.js')}}"></script> --}}
-  <script type="text/javascript" src="{{asset('js/app.js', true)}}"></script>
+  {{-- <script type="text/javascript" src="{{asset('js/app.js', true)}}"></script> --}}
 </body>
 
 </html>
