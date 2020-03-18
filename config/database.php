@@ -50,7 +50,7 @@ return [
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'todoapp_vue_db'),
             'username' => env('DB_USERNAME', 'todoapp_vue_db'),
-            'password' => env('DB_PASSWORD', 'byZ5DAZBL6R7vK@'),
+            'password' => env('DB_PASSWORD', '6U3u.7h3WVmWk!8'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
